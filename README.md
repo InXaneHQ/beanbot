@@ -1,0 +1,2 @@
+# beanbot
+Discord repo
